@@ -14,4 +14,4 @@ This project is a minimal 3D blog application that combines an interactive Three
 - **Optimized performance** using Vite and ES Modules
 - **Google Fonts integration** for clean typography
 
-![blog](images/blog3.png)
+![blog1](images/blog3.png)
