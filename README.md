@@ -1,7 +1,7 @@
 ## Project Overview
 This project is a minimal 3D blog application that combines an interactive Three.js background with a clean and responsive blog interface.
 
-![blog](blog2.png)
+![blog](images/blog2.png)
 
 ## Features
 - **Interactive 3D animated background** powered by Three.js
@@ -14,4 +14,4 @@ This project is a minimal 3D blog application that combines an interactive Three
 - **Optimized performance** using Vite and ES Modules
 - **Google Fonts integration** for clean typography
 
-![blog](blog3.png)
+![blog](images/blog3.png)
